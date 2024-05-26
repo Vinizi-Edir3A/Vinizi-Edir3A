@@ -1,4 +1,4 @@
-Meu nome é Vinicius Barbosa, e estou fazendo este perfil a mando do programa ALURA
+Meu nome é Vinicius Barbosa, e estou fazendo este perfil a mando do programa ALURA. 
 Perseguindo um sonho de ser programador, apenas um obstáculo: MOTIVAÇÃO
 
 -Estou estudando na Alura
