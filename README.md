@@ -1,3 +1,5 @@
+### SALUTATIONS SIR! 💛💙
+
 Meu nome é Vinicius Barbosa, e estou fazendo este perfil a mando do programa ALURA. 
 Perseguindo um sonho de ser programador, apenas um obstáculo: MOTIVAÇÃO
 
@@ -7,7 +9,7 @@ Perseguindo um sonho de ser programador, apenas um obstáculo: MOTIVAÇÃO
 
 -Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
--Image: Netzach (Lobotomy Corporation)
+**-Image: Netzach (Lobotomy Corporation)**
 
 ![](https://img1.picmix.com/output/pic/normal/3/9/6/6/11086693_9a30e.gif)
 
