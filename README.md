@@ -1,9 +1,11 @@
 Meu nome é Vinicius Barbosa, e estou fazendo este perfil a mando do programa ALURA
 Perseguindo um sonho de ser programador, apenas um obstáculo: MOTIVAÇÃO
 
-Estou estudando na Alura
-Estou me desenvolvendo na linguagem JavaScript
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+-Estou estudando na Alura
+
+-Estou me desenvolvendo na linguagem JavaScript
+
+-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 -Image: Netzach (Lobotomy Corporation)
 
