@@ -7,7 +7,7 @@ Utilizo esse espaço para minha organização e compartilhamento dos meu projeto
 
 -Image: Netzach (Lobotomy Corporation)
 
-![]https://img1.picmix.com/output/pic/normal/3/9/6/6/11086693_9a30e.gif
+![](https://img1.picmix.com/output/pic/normal/3/9/6/6/11086693_9a30e.gif)
 
 <!--
 **Vinizi-Edir3A/Vinizi-Edir3A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
